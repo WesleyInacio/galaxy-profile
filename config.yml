@@ -1,0 +1,126 @@
+# ==============================
+# Galaxy Profile - Wesley Inácio
+# ==============================
+
+username: wesleyinacio
+
+profile:
+  name: "Wesley Inácio"
+  tagline: "Engenheiro de Software | Desenvolvedor Fullstack | Dados & Cloud"
+  company: "EloGroup"
+  location: "Mogi Guaçu - SP, Brasil"
+  bio: |
+    Engenheiro de Computação com experiência no desenvolvimento de sistemas
+    robustos e escaláveis. Atuação em projetos estratégicos para grandes
+    empresas globais como BMW, Volvo, Mercedes, Nissan, Volkswagen, Dell e Suzano,
+    além de integrações com Ministérios Públicos e Tribunais de Justiça.
+    Forte atuação em backend, arquitetura de sistemas, bancos de dados
+    e automação de processos corporativos.
+  philosophy: '"Construindo sistemas escaláveis com precisão e impacto."'
+
+# ==============================
+# Redes Sociais
+# ==============================
+
+social:
+  email: "wesleyinacio8.0@hotmail.com"
+  linkedin: "wesleyinacio"
+  website: "https://www.wesleyinacio.dev"
+
+# ==============================
+# Áreas Principais (Galaxy Arms)
+# ==============================
+
+galaxy_arms:
+  - name: "Backend & Arquitetura"
+    color: "synapse_cyan"
+    items:
+      - "Node.js"
+      - "Python"
+      - "PHP"
+      - "Java"
+      - "VB.Net"
+      - "REST APIs"
+      - "Socket.io"
+      - "Elasticsearch"
+
+  - name: "Frontend & Integração"
+    color: "dendrite_violet"
+    items:
+      - "React.js"
+      - "JavaScript"
+      - "HTML5"
+      - "CSS3"
+      - "jQuery"
+
+  - name: "Dados, Cloud & DevOps"
+    color: "axon_amber"
+    items:
+      - "MySQL"
+      - "SQL Server"
+      - "PL/SQL"
+      - "MongoDB"
+      - "Elasticsearch"
+      - "AWS"
+      - "Azure"
+      - "Linux"
+      - "Nginx"
+      - "Apache"
+      - "Cloudflare"
+
+# ==============================
+# Projetos em Destaque
+# (Substitua pelos seus repositórios reais)
+# ==============================
+
+projects:
+  - repo: "wesleyinacio/seu-repositorio-backend"
+    arm: 0
+    description: "Sistema backend escalável com APIs REST e integração com bancos de dados."
+
+  - repo: "wesleyinacio/seu-repositorio-frontend"
+    arm: 1
+    description: "Aplicação React com integração a APIs e arquitetura moderna."
+
+  - repo: "wesleyinacio/seu-repositorio-dados"
+    arm: 2
+    description: "Solução orientada a dados com integração SQL e serviços em nuvem."
+
+# ==============================
+# Tema (paleta espacial profissional)
+# ==============================
+
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+# ==============================
+# Estatísticas
+# ==============================
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+# ==============================
+# Linguagens
+# ==============================
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
