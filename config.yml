@@ -74,15 +74,15 @@ galaxy_arms:
 # ==============================
 
 projects:
-  - repo: "wesleyinacio/seu-repositorio-backend"
+  - repo: "Back-End"
     arm: 0
     description: "Sistema backend escalável com APIs REST e integração com bancos de dados."
 
-  - repo: "wesleyinacio/seu-repositorio-frontend"
+  - repo: "Front-End"
     arm: 1
     description: "Aplicação React com integração a APIs e arquitetura moderna."
 
-  - repo: "wesleyinacio/seu-repositorio-dados"
+  - repo: "Banco de Dados"
     arm: 2
     description: "Solução orientada a dados com integração SQL e serviços em nuvem."
 
